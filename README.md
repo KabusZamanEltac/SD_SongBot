@@ -4,7 +4,7 @@
   <img src="https://telegra.ph/file/d4d6c8c8483949e1d756e.jpg">
 </p>
 
-Reach me on Telegram [Song Download bot 🎸](https://t.me/TheSongdobot)
+Reach me on Telegram [𝐖𝐞𝐫𝐚𝐛 𝐒𝐨𝐧𝐠 𝐁𝐨𝐭 🎸 Download bot 🎸](https://t.me/werabsongbot)
 
 ## Features
 
